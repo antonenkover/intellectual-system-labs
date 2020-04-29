@@ -1,0 +1,196 @@
+{
+	"intents": [
+		{
+			"tag": "greeting",
+			"patterns": [
+					"Hi",
+					"Hey",
+					"Good morning",
+					"Good day",
+					"Good afternoon",
+					"Morning",
+					"Good evening",
+					"Hello",
+					"Hello there",
+					"Hi there"
+			],
+			"responses": [
+					"Hello, thanks for visiting",
+					"Good to see you again",
+					"Hi there, how can I help?",
+					"Hi, how are you doing?",
+					"Hello there"
+			]
+		},
+		{
+			"tag": "thanks",
+			"patterns": [
+					"Thanks",
+					"Thank you",
+					"That's helpful",
+					"That is helpful",
+					"Thank you so much",
+					"I can't thank you enough",
+					"Thanks a lot",
+					"I'm grateful for your help",
+					"I want to thank you",
+					"Thanks a bunch"
+			],
+			"responses": [
+					"You are welcome!",
+					"Any time!",
+					"My pleasure",
+					"Enjoy!"
+			]
+		},
+		{
+			"tag": "mood",
+			"patterns": [
+					"How are you?",
+					"How are you doing?",
+					"And you?",
+					"What's up",
+					"What's new",
+					"How's your mood?",
+					"How have you been?",
+					"How's life?",
+					"How’s it going?",
+					"How are things?"
+			],
+			"responses": [
+					"I am good, thanks",
+					"I am fine, thank you",
+					"I am good, thank you"
+			]
+		},
+		{
+			"tag": "fine",
+			"patterns": [
+					"Fine",
+					"Good",
+					"I am good",
+					"I am fine",
+					"Fine, thanks",
+					"Fine, thank you",
+					"Good, thanks",
+					"Good, thank you",
+					"I am excellent",
+					"I am OK"
+			],
+			"responses": [
+					"That's great",
+					"I like it",
+					"Cool",
+					"Fantastic"
+			]
+		},
+		{
+			"tag": "ok",
+			"patterns": [
+					"OK",
+					"Cool",
+					"Excellent",
+					"Well",
+					"Good"
+			],
+			"responses": [
+					":)",
+					";)",
+					"))"
+			]
+		},
+		{
+			"tag": "goodbye",
+			"patterns": [
+					"Bye",
+					"See you later",
+					"Goodbye",
+					"Bye-bye"
+			],
+			"responses": [
+					"See you later, thanks for visiting",
+					"Bye! Come back again soon.",
+					"Have a nice day!"
+			]
+		},
+		{
+			"tag": "name",
+			"patterns": [
+					"What is your name?",
+					"How may I call you?",
+					"How to call you?",
+					"What's your name?",
+					"Who are you?"
+			],
+			"responses": [
+					"I am Omega",
+					"My name is Omega",
+					"Call me Omega",
+					"Omega, this is my name"
+			]
+		},
+		{
+			"tag": "weather",
+			"patterns": [
+					"What is the weather for today?",
+					"Weather",
+					"Weather for tomorrow",
+					"Tell me the weather please",
+					"How do you like the weather?",
+					"Nice weather, isn't it?",
+					"I like the weather today",
+					"Can you forecast the weather?",
+					"Such a lovely weather",
+					"Good weather"
+			],
+			"responses": [
+					"Weather? I can't forecast it for tomorrow, but I like it today"
+			]
+		},
+		{
+			"tag": "joke",
+			"patterns": [
+					"Tell me a joke",
+					"Tell something",
+					"I want a joke",
+					"Can you joke?",
+					"Tell a joke, please",
+					"Joke for me",
+					"I want to hear some jokes"
+			],
+			"responses": [
+					"Oh, I forgot all jokes",
+					"Hmm, now I don't remember any joke",
+					"Q. What is the biggest lie in the entire universe?\nA. I have read and agree to the Terms & Conditions.",
+					"Q. How does a computer get drunk?\nA. It takes screenshots.",
+					"I saw a driver texting and driving. It made me so mad I threw my beer at him.",
+					"Q: Why was the cell phone wearing glasses?\nA: It lost its contacts.",
+					"Client to designer: \"It doesn't really look purple. It looks more like a mixture of red and blue.\"",
+					"The closest I've been to a diet this year is erasing food searches from my browser history.",
+					"Request from a client: \"For the ad, use a stock photo of a woman or a person.\""
+			]
+		},
+		{
+			"tag": "doit",
+			"patterns": [
+					"Do it",
+					"Please",
+					"OK, do this",
+					"Just do it"
+			],
+			"responses": [
+					"What would you like me to do?",
+					"What should I do?",
+					"Could you please be more clear? What do I have to do?"
+			]
+		}
+	],
+	"defaults": [
+		"Sorry, I didn't get what you mean",
+		"I don't understand you",
+		"What are you talking about?",
+		"Hmm, I have no idea what it means",
+		"What?",
+		"Ehm, repeat please"
+	]
+}
