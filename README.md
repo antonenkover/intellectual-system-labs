@@ -15,12 +15,12 @@
 
 Пример выполнения:
 
-<img src="ex_1.png" width="300" alt="example"/>
+<img src="ex_1.png" width="400" alt="example"/>
 
 
 Точность:
 
-<img src="ex_2.png" width="300" alt="example"/>
+<img src="ex_2.png" width="400" alt="example"/>
 
  ___________________________________________________________________________________
  
