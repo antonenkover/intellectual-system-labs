@@ -1,0 +1,5224 @@
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15185480 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16234616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16234616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16777216 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17794312 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18419736 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18419736 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18874368 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19385936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19385936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19889864 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19889864 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 20516888 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 20516888 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21988456 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21988456 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22526072 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22526072 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23068672 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23068672 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23662616 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23662616 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24117248 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24117248 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 24628824 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25132752 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25671800 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25671800 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26214400 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26214400 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26808344 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26808344 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27262976 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27262976 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6116408 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6642744 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7164984 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7691320 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7691320 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8213560 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8213560 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 8827864 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9262136 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9262136 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 9876440 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 9876440 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10310712 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10843208 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10843208 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 11359288 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11891784 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11891784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 12407864 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 12407864 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14136896 bytes 
+Time used: 5 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16234616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16234616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16777216 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16777216 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17288752 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17792120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17792120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18331768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18331768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18874368 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18874368 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19468312 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 19468312 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20939864 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20939864 bytes 
+Time used: 8 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21477496 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21477496 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22020096 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22020096 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22614040 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22614040 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23068672 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23580232 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 23580232 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24084160 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24711192 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24711192 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 25165824 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 25165824 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 25677360 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 25677360 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26188880 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26720376 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 26720376 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 27224304 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 27224304 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6147072 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6149120 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6763424 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6763424 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 7195648 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7728144 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7728144 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 8244224 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 8246272 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9292800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9292800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9819136 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9819136 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10341376 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10341376 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10867712 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 10867712 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 12964864 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 16
+Memory consumed: 15062016 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 18
+Memory consumed: 17159168 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 18729984 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 20304896 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 24
+Memory consumed: 22924288 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 11
+Memory consumed: 24499200 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 12
+Memory consumed: 25547776 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 26070016 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 17
+Memory consumed: 26596352 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 18
+Memory consumed: 27644928 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 44
+Memory consumed: 29215744 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 28
+Memory consumed: 31312896 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 28
+Memory consumed: 33410048 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 35072928 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 37082112 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 37604352 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 39179264 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 27
+Memory consumed: 41798656 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 23
+Memory consumed: 43895808 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 38
+Memory consumed: 45470720 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 47655840 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 20
+Memory consumed: 49138688 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 17
+Memory consumed: 50713600 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 51762176 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 55430144 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 58053632 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 43
+Memory consumed: 60673024 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 62770176 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 63296512 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18331192 bytes 
+Time used: 4 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20428920 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20428920 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20971520 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20971520 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21491248 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21491248 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22002768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22526072 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22526072 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23068672 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23068672 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23662616 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 23662616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25134168 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25134168 bytes 
+Time used: 9 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25671800 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25671800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 26214400 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 26214400 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26808344 bytes 
+Time used: 4 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26808344 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27262976 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27774536 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 27774536 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 28278464 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 28905496 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 28905496 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 29360128 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 29360128 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 29871664 bytes 
+Time used: 6 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 30383184 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 30383184 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 30914680 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 30914680 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 31418608 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 31418608 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10361528 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 11408056 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12022360 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12022360 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 12456632 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12982968 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12982968 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 13505208 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 13505208 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14037704 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14553784 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15080120 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15080120 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15602360 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15602360 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16128696 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 16128696 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19883336 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21483080 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21483080 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21987008 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21987008 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22614040 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22614040 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23068672 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23580240 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23580240 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24084168 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24084168 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24711192 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 24711192 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 26182736 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 26182736 bytes 
+Time used: 8 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 26720376 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 26720376 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 27262976 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 27262976 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27856920 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27856920 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 28311552 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 28311552 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 28823128 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 29327056 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 29866104 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 29866104 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 30408704 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 30408704 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 31002648 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 31002648 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 31457280 bytes 
+Time used: 4 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19379792 bytes 
+Time used: 5 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20428920 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20428920 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20971520 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20971520 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21483056 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21986424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21986424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22526072 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22526072 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23068672 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23068672 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23662616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 23662616 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25134168 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25134168 bytes 
+Time used: 8 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25671800 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25671800 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 26214400 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 26214400 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26808344 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26808344 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27262976 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27774536 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 27774536 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 28278464 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 28905496 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 28905496 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 29360128 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 29360128 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 29871664 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 29871664 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 30383184 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 30914680 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 30914680 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 31418608 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 31418608 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10343368 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10345416 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10959720 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10959720 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 11391944 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 11924440 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 11924440 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 12440520 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 12442568 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13489096 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13489096 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14015432 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14015432 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14537672 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14537672 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15064008 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 15064008 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 17683400 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 13480832 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15185448 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15688800 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16242208 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16242208 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16746136 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16746136 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17371160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17371160 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17825792 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18331768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18331768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18835696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 18835696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19922944 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20434480 bytes 
+Time used: 9 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20946000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20946000 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21477496 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14136896 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15186040 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15186040 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15728640 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15728640 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16240176 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16743544 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16743544 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17283192 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17283192 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17825792 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17825792 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18419736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 18419736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19891280 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 13559672 bytes 
+Time used: 5 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15689400 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15689400 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16322584 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16322584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16777216 bytes 
+Time used: 6 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16777216 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17282616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17786544 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17786544 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18419736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18419736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18874368 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 18874368 bytes 
+Time used: 4 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20434512 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20434512 bytes 
+Time used: 11 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20938440 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20938440 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21565464 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21565464 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22020096 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22531656 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22531656 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23035584 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 23035584 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23662616 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24117248 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24117248 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24628784 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24628784 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 25132120 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 4665344 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14608368 bytes 
+Time used: 4 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15695544 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15695544 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16322584 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16322584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16777216 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16777216 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17282616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17786544 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17786544 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18419736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18419736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18874368 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 18874368 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20428920 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20428920 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20971520 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20971520 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21565464 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21565464 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22020096 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22020096 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22525488 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23029416 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 23029416 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23662616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24117248 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24117248 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24710696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24710696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 25165824 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 4606976 bytes 
+Time used: 7 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 4606976 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 5133312 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 5133312 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 5657600 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 5657600 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6271904 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6271904 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6704128 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6704128 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 7236624 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7752704 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7752704 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 8285200 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 8801280 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9327616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9327616 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9849856 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9849856 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10376192 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10376192 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10898432 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 10898432 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 8
+Memory consumed: 12995584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 43
+Memory consumed: 13521920 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 15625232 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16141312 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 16141312 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 19287040 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 19287040 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 20335616 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 11
+Memory consumed: 21384192 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 8
+Memory consumed: 22432768 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 22959104 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 45
+Memory consumed: 24529920 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 39
+Memory consumed: 27675648 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 52
+Memory consumed: 29772800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 32918528 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 35015680 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 37
+Memory consumed: 35548176 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 46
+Memory consumed: 37727136 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 40784896 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 44018592 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 52
+Memory consumed: 45067168 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 28
+Memory consumed: 47598592 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 29
+Memory consumed: 50310048 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 51792896 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 51792896 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 49
+Memory consumed: 52319232 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 14136888 bytes 
+Time used: 6 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 18874368 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 8
+Memory consumed: 19922944 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 50
+Memory consumed: 20932848 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 53
+Memory consumed: 23574648 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 5650944 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 30
+Memory consumed: 9329168 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 50
+Memory consumed: 10893824 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 13517312 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 15620624 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16136704 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 16136704 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 27
+Memory consumed: 16663040 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 22
+Memory consumed: 18233856 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 17
+Memory consumed: 20331008 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 21379584 bytes 
+Time used: 7 milliseconds 
+BFS ALGORITHM
+Number of steps: 39
+Memory consumed: 22428160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 24003072 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 41
+Memory consumed: 26622464 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 46
+Memory consumed: 28197376 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 14
+Memory consumed: 31431072 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 28
+Memory consumed: 32913920 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 19
+Memory consumed: 34488832 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 35537408 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 28
+Memory consumed: 36592144 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 38156800 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 29
+Memory consumed: 38771104 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 40253952 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 15
+Memory consumed: 41302528 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 14136920 bytes 
+Time used: 5 milliseconds 
+BFS ALGORITHM
+Number of steps: 8
+Memory consumed: 19922944 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 20971520 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 23030000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 12
+Memory consumed: 25126128 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 19
+Memory consumed: 26182768 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 6155496 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 6769800 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 36
+Memory consumed: 9299176 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 53
+Memory consumed: 12010632 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 21
+Memory consumed: 14542056 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 16639208 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 20
+Memory consumed: 17171704 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 25
+Memory consumed: 18302088 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 19784936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 21359848 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 22408424 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 39
+Memory consumed: 23463160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 53
+Memory consumed: 25642120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 28173544 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 30885000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 47
+Memory consumed: 32367848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 45
+Memory consumed: 34991336 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 14
+Memory consumed: 37610728 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 21
+Memory consumed: 39185640 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 49
+Memory consumed: 40756456 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 42853608 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 43902184 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 19
+Memory consumed: 44950760 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 36
+Memory consumed: 45999336 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 48096488 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 48622824 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 38
+Memory consumed: 51242216 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 49
+Memory consumed: 53865704 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 15
+Memory consumed: 56050824 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 47
+Memory consumed: 57533672 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 37
+Memory consumed: 60157160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 11
+Memory consumed: 62776552 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 63825128 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 66970856 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 14
+Memory consumed: 68019432 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 69682312 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 72213736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 43
+Memory consumed: 72746232 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 27
+Memory consumed: 75359464 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 14
+Memory consumed: 77982952 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 41
+Memory consumed: 79037688 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 38
+Memory consumed: 80602344 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 43
+Memory consumed: 7934768 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 9505584 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 10554160 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 39
+Memory consumed: 11602736 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 25
+Memory consumed: 13177648 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 27
+Memory consumed: 15274800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 21
+Memory consumed: 16845616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 49
+Memory consumed: 18942768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 44
+Memory consumed: 21039920 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 24185648 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 19
+Memory consumed: 24711984 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 52
+Memory consumed: 26282800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 30
+Memory consumed: 28379952 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 12
+Memory consumed: 31003440 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 36
+Memory consumed: 32052016 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 44
+Memory consumed: 34155328 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 21
+Memory consumed: 36768560 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 38343472 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 39914288 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 18
+Memory consumed: 42011440 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 43586352 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 37
+Memory consumed: 45689664 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 18
+Memory consumed: 48302896 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 30
+Memory consumed: 49877808 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 17
+Memory consumed: 51448624 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 52497200 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 54594352 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 58788656 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 61412144 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 62460720 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 53
+Memory consumed: 63509296 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 44
+Memory consumed: 66128688 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 47
+Memory consumed: 69274416 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 45
+Memory consumed: 71897904 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 14
+Memory consumed: 74517296 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 52
+Memory consumed: 76180176 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 78711600 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 79237936 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 79760176 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 19
+Memory consumed: 5841504 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 20
+Memory consumed: 6896240 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 8460896 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 50
+Memory consumed: 10035808 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 13269504 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 46
+Memory consumed: 16849504 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 23
+Memory consumed: 19995232 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21570144 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 21
+Memory consumed: 22092384 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 23673456 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 50
+Memory consumed: 24189536 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 11
+Memory consumed: 26286688 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 41
+Memory consumed: 27861600 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 39
+Memory consumed: 29432416 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 53
+Memory consumed: 32143872 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 35723872 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 16
+Memory consumed: 36772448 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 15
+Memory consumed: 37821024 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 8
+Memory consumed: 39395936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 40444512 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 50
+Memory consumed: 42629632 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 36
+Memory consumed: 46209632 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 16
+Memory consumed: 48921088 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 50403936 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 41
+Memory consumed: 51978848 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 54163968 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 54598240 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 57221728 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 58792544 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 27
+Memory consumed: 61938272 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 49
+Memory consumed: 64035424 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 45
+Memory consumed: 67181152 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 70326880 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 37
+Memory consumed: 71375456 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 40
+Memory consumed: 73998944 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 22
+Memory consumed: 75569760 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 50
+Memory consumed: 77232640 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 43
+Memory consumed: 80290400 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 7561984 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 12
+Memory consumed: 10185472 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 46
+Memory consumed: 11234048 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 25
+Memory consumed: 13853440 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 15950592 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 49
+Memory consumed: 16476928 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 45
+Memory consumed: 19096320 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 53
+Memory consumed: 22242048 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 25387776 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 26962688 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 39
+Memory consumed: 27484928 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 53
+Memory consumed: 29582080 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 53
+Memory consumed: 33254144 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 33
+Memory consumed: 36922112 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 44
+Memory consumed: 39019264 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 53
+Memory consumed: 41116416 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 23
+Memory consumed: 44262144 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 15185464 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 49
+Memory consumed: 20971520 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 30
+Memory consumed: 24117248 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 26808344 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 45
+Memory consumed: 7719168 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 50
+Memory consumed: 10338560 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 17
+Memory consumed: 13484288 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 15059200 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18727168 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 44
+Memory consumed: 18727168 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 21872896 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 25018624 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 12511080 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18331768 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 12
+Memory consumed: 18331768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 12
+Memory consumed: 19884272 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 33
+Memory consumed: 20971520 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 13559624 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 19380344 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 29
+Memory consumed: 20428920 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 40
+Memory consumed: 21981424 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 24085728 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 29
+Memory consumed: 5043712 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 6614528 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 7140864 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 17
+Memory consumed: 9238016 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 13559632 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 13559624 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 30
+Memory consumed: 19380344 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21477496 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 46
+Memory consumed: 21981424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 40
+Memory consumed: 24643584 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 19
+Memory consumed: 6626304 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 29
+Memory consumed: 8207376 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 9772032 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 33
+Memory consumed: 10386336 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 48
+Memory consumed: 11869184 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 14498832 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 12511080 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 14640992 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15689440 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 16322088 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16777216 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16777216 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 17371160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 18337352 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 18874368 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 19468312 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19922944 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 20428920 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20940440 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 20940440 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 21564968 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 22526072 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 23030000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 23580224 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 24117248 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 25127152 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 4914176 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 5438464 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 5438464 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 5960704 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 7009280 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 7535616 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 8057856 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8672160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 9106432 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 9632768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 10155008 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11203584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 11203584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11817888 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 12252160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 12778496 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 13300736 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13915040 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 13915040 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 14875648 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 15397888 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 16012192 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 16972800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 16972800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 18109344 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 18543616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 19069952 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 19592192 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 20206496 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 20642816 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 21167104 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21689344 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22303648 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22303648 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 22737920 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 23352224 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 23786496 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 24312832 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 25449376 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 25449376 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 26409984 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 27546528 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 27980800 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 29029376 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 29555712 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 14136960 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 16737376 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 16737376 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 17825792 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 18331768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18835696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 18874368 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19385904 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 19922944 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 20516888 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 20516888 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 21477496 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 21989016 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 21989016 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 23068672 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 23574648 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 24078576 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 25165824 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 25671800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 26175728 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 26808344 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 27262976 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 7021056 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 7021056 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 7543296 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 8157600 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 9118208 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 9640448 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 10254752 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11215360 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 11737600 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11737600 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 12351904 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 12786176 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 13312512 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13834752 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13834752 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 14367248 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14883328 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 15409664 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15931904 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 15931904 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 16980480 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 17594784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 18029056 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 19077632 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 19691936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 20652544 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 20652544 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22223360 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 22223360 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22749696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 23271936 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 23804432 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24320512 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24846848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 24846848 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 25895424 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 25895424 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26417664 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26417664 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 27031968 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 27031968 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 27466240 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 27992576 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 28514816 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 29041152 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 29563392 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 30177696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 31138304 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 31660544 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 31660544 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 32274848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 32709120 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 33235456 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 33235456 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 33757696 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 34374048 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 14136888 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 16737952 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 17371160 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17825792 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 17825792 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18835696 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 18835696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19385904 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 19922944 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 20516888 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 20971520 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 21477496 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 22614040 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 23068672 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 23574648 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 24078576 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 26184976 bytes 
+Time used: 4 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 7931904 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 8454144 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 9068448 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 10035216 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 10551296 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11165600 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 11599872 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 12126208 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 12648448 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 13697024 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 14223360 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14745600 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15359904 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 15359904 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 15794176 bytes 
+Time used: 4 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 16320512 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16842752 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17375248 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17375248 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17891328 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 17891328 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 18939904 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 19466240 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 19988480 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20602784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 21037056 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 22085632 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 22699936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23134208 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 23134208 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 24182784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 24182784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24715280 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24715280 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 25231360 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 25845664 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 26806272 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 26806272 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 27328512 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 27942816 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 28903424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 25670808 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8016288 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 8016288 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 8974848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 8974848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 9497088 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 10029584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 11159968 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 11159968 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 12120576 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13257120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 13257120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26723760 bytes 
+Time used: 5 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7109632 bytes 
+Time used: 6 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8698896 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9206784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9206784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9733120 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10255360 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10255360 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10781696 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10781696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11303936 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11303936 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11836432 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 11836432 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13401088 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13401088 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13927424 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13927424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14449664 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14449664 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14976000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15498240 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15498240 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16024576 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 16024576 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16546816 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17161120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17161120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17595392 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17595392 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18121728 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18643968 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18643968 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19170304 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19170304 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19692544 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19692544 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20306848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20306848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20741120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20741120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 21267456 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21789696 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22322192 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22322192 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 22838272 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23364608 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23364608 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23886848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23886848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24501152 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24501152 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24935424 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 24935424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 27032576 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 22
+Memory consumed: 27558912 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 29129728 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 27
+Memory consumed: 32275456 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 18
+Memory consumed: 34372608 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 49
+Memory consumed: 36469760 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 25
+Memory consumed: 39181216 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 41712640 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 43809792 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 33
+Memory consumed: 45472672 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 11
+Memory consumed: 46955520 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 19
+Memory consumed: 48530432 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 22
+Memory consumed: 49579008 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 51764128 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 40
+Memory consumed: 55344128 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 58055584 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 58489856 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 60587008 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 61113344 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 45
+Memory consumed: 61635584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 63732736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 66444192 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 67492768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 16
+Memory consumed: 69501952 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 16
+Memory consumed: 70550528 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 72653840 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26184936 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7303168 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7305216 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7919520 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7919520 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8351744 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8878080 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8878080 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9400320 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 9400320 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10014624 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10014624 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10448896 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 10981392 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12023808 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12023808 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12546048 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12546048 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13160352 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13160352 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 13594624 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14120960 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14120960 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14643200 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 14643200 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15257504 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15691776 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15691776 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16218112 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16218112 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16740352 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17266688 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17266688 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17788928 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17788928 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18403232 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18403232 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18837504 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18837504 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19370000 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19370000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 19886080 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20412416 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20934656 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 20934656 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 21460992 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21983232 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21983232 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22597536 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22597536 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23031808 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23031808 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23646112 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 23646112 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 25743264 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 20
+Memory consumed: 28274688 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 25
+Memory consumed: 30986144 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 47
+Memory consumed: 32034720 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 39
+Memory consumed: 35092480 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 48
+Memory consumed: 37277600 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 19
+Memory consumed: 40335360 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 23
+Memory consumed: 41906176 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 16
+Memory consumed: 42954752 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 44617632 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 18
+Memory consumed: 46100480 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 38
+Memory consumed: 47149056 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 24
+Memory consumed: 49246208 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 52
+Memory consumed: 51343360 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 12
+Memory consumed: 53966848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 55015424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 56064000 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 48
+Memory consumed: 56586240 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 11
+Memory consumed: 58683392 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 60346272 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 23
+Memory consumed: 62877696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 64974848 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 49
+Memory consumed: 65589152 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 39
+Memory consumed: 68120576 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 48
+Memory consumed: 70217728 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 41
+Memory consumed: 72929184 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 21
+Memory consumed: 75460608 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 50
+Memory consumed: 77041680 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 80181248 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 82278400 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 82800640 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 40
+Memory consumed: 8262480 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10441440 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 29
+Memory consumed: 10441440 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 16
+Memory consumed: 12450624 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 40
+Memory consumed: 14021440 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 16118592 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 42
+Memory consumed: 18215744 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 21
+Memory consumed: 21361472 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 8
+Memory consumed: 22410048 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 23458624 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 47
+Memory consumed: 24507200 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 27130688 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 44
+Memory consumed: 27652928 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 51
+Memory consumed: 30364384 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 46
+Memory consumed: 33422144 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 36655840 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 25
+Memory consumed: 37090112 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 34
+Memory consumed: 39187264 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 24
+Memory consumed: 40762176 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 42332992 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 42859328 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 12
+Memory consumed: 45044448 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 7
+Memory consumed: 46093024 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 18
+Memory consumed: 47053632 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 21
+Memory consumed: 48102208 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 17
+Memory consumed: 49673024 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 16
+Memory consumed: 51335904 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 38
+Memory consumed: 52818752 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 35
+Memory consumed: 54393664 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 12
+Memory consumed: 57013056 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 58061632 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 15
+Memory consumed: 59724512 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 11
+Memory consumed: 61207360 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 37
+Memory consumed: 62255936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 64967392 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 38
+Memory consumed: 65401664 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 27
+Memory consumed: 67498816 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 24
+Memory consumed: 69073728 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 70644544 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 71170880 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 18
+Memory consumed: 71693120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 25
+Memory consumed: 73356000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 74838848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 28
+Memory consumed: 76936000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 40
+Memory consumed: 77984576 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 31
+Memory consumed: 80081728 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 15
+Memory consumed: 82178880 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 45
+Memory consumed: 7687128 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 9784280 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 11359192 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 12930008 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 38
+Memory consumed: 14592888 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 11
+Memory consumed: 16602072 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 10
+Memory consumed: 17650648 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 18699224 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 32
+Memory consumed: 19747800 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 21844952 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 29
+Memory consumed: 22367192 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 27
+Memory consumed: 24030072 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 45
+Memory consumed: 26039256 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 3
+Memory consumed: 28136408 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 28658648 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 16
+Memory consumed: 31804376 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 24
+Memory consumed: 33901528 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 35476440 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 4
+Memory consumed: 38095832 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 20
+Memory consumed: 38710136 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 54
+Memory consumed: 40719320 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 35
+Memory consumed: 42816472 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 45435864 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 24
+Memory consumed: 45962200 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 8
+Memory consumed: 48059352 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 28
+Memory consumed: 48581592 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 26181336 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7311872 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7313920 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7928224 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7928224 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8360448 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8886784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8886784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9409024 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 9409024 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10023328 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10023328 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10457600 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 10990096 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12032512 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12032512 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12554752 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12554752 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13169056 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13169056 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 13603328 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14129664 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14129664 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14651904 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 14651904 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15266208 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15700480 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15700480 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16226816 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16226816 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16749056 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17275392 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17275392 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17797632 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17797632 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18411936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18411936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18846208 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18846208 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19378704 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19378704 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 19894784 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20421120 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20943360 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 20943360 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 21469696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21991936 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21991936 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22518272 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22518272 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23040512 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23040512 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23654816 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 23654816 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 7709696 bytes 
+Time used: 6 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8231936 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8231936 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8846240 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8846240 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9280512 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9806848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10329088 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10855424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10855424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11377664 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11377664 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11904000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 11904000 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13474816 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13474816 bytes 
+Time used: 3 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14089120 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14089120 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14523392 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14523392 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15049728 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15571968 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15571968 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16098304 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 16098304 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16620544 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17234848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17234848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17669120 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17669120 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18195456 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18717696 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18717696 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19244032 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19244032 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19766272 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19766272 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20380576 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20380576 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20814848 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20814848 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 21341184 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21863424 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22389760 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22389760 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 22912000 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23438336 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23438336 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23960576 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23960576 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24574880 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24574880 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 25009152 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 25009152 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 48
+Memory consumed: 27106304 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 44
+Memory consumed: 29203456 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 13
+Memory consumed: 31916960 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 17
+Memory consumed: 33397760 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27225368 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 6950400 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8539664 bytes 
+Time used: 5 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9047552 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9047552 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9573888 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10096128 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10096128 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 10710432 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10710432 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11144704 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11144704 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 11671040 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 12193280 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13241856 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13241856 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13856160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13856160 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14290432 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14290432 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14816768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15339008 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15339008 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 15865344 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 15865344 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16387584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17001888 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17001888 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17436160 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17436160 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17968656 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18484736 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 18484736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 19011072 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19011072 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19533312 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19533312 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20147616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20147616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20581888 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20581888 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 21114384 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21630464 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22156800 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 22156800 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 22679040 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23205376 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23205376 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23727616 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 23727616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24341920 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24341920 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 24776192 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 24776192 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 27223128 bytes 
+Time used: 40 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7309824 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7311872 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7926176 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 7926176 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8358400 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8884736 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 8884736 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 9406976 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 9406976 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10021280 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10021280 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 10455552 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 9
+Memory consumed: 10988048 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12030464 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12030464 bytes 
+Time used: 2 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12552704 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 12552704 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13167008 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 13167008 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 13601280 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14127616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14127616 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14649856 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 14649856 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15264160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15698432 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 15698432 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16224768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16224768 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 16747008 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17273344 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17273344 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 17795584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 17795584 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18409888 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18409888 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18844160 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 18844160 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19376656 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 19376656 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 5
+Memory consumed: 19892736 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20419072 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 20941312 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 20941312 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 6
+Memory consumed: 21467648 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21989888 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 21989888 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22516224 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 2
+Memory consumed: 22516224 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23038464 bytes 
+Time used: 0 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23038464 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 1
+Memory consumed: 23652768 bytes 
+Time used: 1 milliseconds 
+BFS ALGORITHM
+Number of steps: 26
+Memory consumed: 23652768 bytes 
+Time used: 1 milliseconds 

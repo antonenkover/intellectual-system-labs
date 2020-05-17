@@ -1,0 +1,4200 @@
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 16234040 bytes 
+Time used: 5 milliseconds 
+DFS ALGORITHM
+Number of steps: 24
+Memory consumed: 26720376 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 8
+Memory consumed: 11489504 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 7872528 bytes 
+Time used: 31037 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 15688896 bytes 
+Time used: 10 milliseconds 
+DFS ALGORITHM
+Number of steps: 17
+Memory consumed: 26720376 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 30
+Memory consumed: 9377136 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 8322360 bytes 
+Time used: 8948 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 7348736 bytes 
+Time used: 6516 milliseconds 
+DFS ALGORITHM
+Number of steps: 24
+Memory consumed: 17834496 bytes 
+Time used: 3616 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 7340032 bytes 
+Time used: 21887 milliseconds 
+DFS ALGORITHM
+Number of steps: 40
+Memory consumed: 17825792 bytes 
+Time used: 6402 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 15689032 bytes 
+Time used: 5 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 7870464 bytes 
+Time used: 5365 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 19891288 bytes 
+Time used: 7 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 19883104 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 15185600 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Number of steps: 15
+Memory consumed: 26720376 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9384904 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9384904 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 9917400 bytes 
+Time used: 7 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10433480 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 10959816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 11482056 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12008392 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 12530632 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13056968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 9 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13579208 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14105544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14627784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15154120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15676360 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16202696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 16724936 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17251272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 17773512 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18299848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 18822088 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19348424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 19870664 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20397000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 20919240 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21445576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 21967816 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 22494152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23016392 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 23542728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24064968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 24591304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25113544 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 25639880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26162120 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 26688456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27210696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 27737032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28259272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 28785608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29307848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 29834184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30356424 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 30888920 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31405000 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 31937496 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32453576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 32986072 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 33502152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34034648 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 34550728 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35083224 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 35599304 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36131800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 36647880 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37180376 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 37696456 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38228952 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 38745032 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39277528 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 39793608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40326104 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 40842184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41374680 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 41890760 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42423256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 42939336 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43471832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 43987912 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 44520408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45036488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 45568984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46085064 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 46617560 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47133640 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 47666136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48182216 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 48714712 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49230792 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 49763288 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50279368 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 50811864 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 51327944 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 19891288 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Number of steps: 15
+Memory consumed: 9047576 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13239832 bytes 
+Time used: 13 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13239832 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13239832 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13239832 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13239832 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13772328 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13772328 bytes 
+Time used: 6 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13772328 bytes 
+Time used: 6 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13772328 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13772328 bytes 
+Time used: 5 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13772328 bytes 
+Time used: 5 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13772328 bytes 
+Time used: 5 milliseconds 
+DFS ALGORITHM
+Memory consumed: 13772328 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14673208 bytes 
+Time used: 13 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14673208 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 14673208 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15197496 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15336984 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15336984 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15336984 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15339032 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15863320 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15863320 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15863320 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15863320 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15863320 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Memory consumed: 15863320 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 14136920 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Number of steps: 8
+Memory consumed: 25671800 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 27
+Memory consumed: 6266640 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 33
+Memory consumed: 12035856 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 47
+Memory consumed: 20424464 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 45
+Memory consumed: 27764496 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14640488 bytes 
+Time used: 4 milliseconds 
+DFS ALGORITHM
+Number of steps: 2
+Memory consumed: 16234616 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 3
+Memory consumed: 16777216 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 4
+Memory consumed: 17371160 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 5
+Memory consumed: 18337344 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 6
+Memory consumed: 19883696 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 7
+Memory consumed: 21477496 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 8
+Memory consumed: 23662616 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 9
+Memory consumed: 25677376 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 1
+Memory consumed: 13561744 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 2
+Memory consumed: 14640832 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 3
+Memory consumed: 15186040 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 4
+Memory consumed: 15728640 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 5
+Memory consumed: 16777216 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 6
+Memory consumed: 18331176 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 7
+Memory consumed: 19883688 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 8
+Memory consumed: 22020096 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 9
+Memory consumed: 24117248 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 10
+Memory consumed: 5859840 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 11
+Memory consumed: 9005568 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 12
+Memory consumed: 11629056 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 1
+Memory consumed: 14774784 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 14
+Memory consumed: 15297024 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 15
+Memory consumed: 18969088 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 16
+Memory consumed: 22637056 bytes 
+Time used: 8 milliseconds 
+DFS ALGORITHM
+Number of steps: 17
+Memory consumed: 26831360 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 14608368 bytes 
+Time used: 6 milliseconds 
+DFS ALGORITHM
+Number of steps: 53
+Memory consumed: 25127152 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 37
+Memory consumed: 12904448 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 21
+Memory consumed: 17713056 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 27
+Memory consumed: 22955936 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 28
+Memory consumed: 30208000 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 33
+Memory consumed: 36499456 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 25
+Memory consumed: 44361728 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 3
+Memory consumed: 50130944 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 16
+Memory consumed: 50653184 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 2
+Memory consumed: 54847488 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 8
+Memory consumed: 55373824 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 11
+Memory consumed: 57558944 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 27
+Memory consumed: 60090368 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 35
+Memory consumed: 66996128 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 31
+Memory consumed: 74248192 bytes 
+Time used: 9 milliseconds 
+DFS ALGORITHM
+Number of steps: 29
+Memory consumed: 5807936 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 50
+Memory consumed: 12099392 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 26
+Memory consumed: 17868608 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 18
+Memory consumed: 24248032 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 8
+Memory consumed: 28354368 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 29
+Memory consumed: 30451520 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 44
+Memory consumed: 36742976 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 25
+Memory consumed: 47316704 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 27
+Memory consumed: 52993856 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 34
+Memory consumed: 59811648 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 21
+Memory consumed: 68200256 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 48
+Memory consumed: 73443136 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 13559616 bytes 
+Time used: 14 milliseconds 
+DFS ALGORITHM
+Number of steps: 11
+Memory consumed: 25127152 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 23
+Memory consumed: 6999552 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 24
+Memory consumed: 12768768 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 51
+Memory consumed: 18533888 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 24
+Memory consumed: 26400256 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 41
+Memory consumed: 31643136 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 42
+Memory consumed: 40031744 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 48
+Memory consumed: 45274624 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 6
+Memory consumed: 56282624 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 12
+Memory consumed: 57945504 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 34
+Memory consumed: 61091232 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 53
+Memory consumed: 67816960 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 15
+Memory consumed: 74108416 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 3
+Memory consumed: 78302720 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 47
+Memory consumed: 78829056 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 33
+Memory consumed: 10057408 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 16
+Memory consumed: 13817440 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 13559624 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 30
+Memory consumed: 25127152 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 17
+Memory consumed: 11446784 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 20
+Memory consumed: 15114752 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 21
+Memory consumed: 19835392 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 3
+Memory consumed: 25078272 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 26
+Memory consumed: 26126848 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 34
+Memory consumed: 31891968 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 44
+Memory consumed: 40280576 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 25
+Memory consumed: 48669184 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 44
+Memory consumed: 54960640 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 16
+Memory consumed: 63875584 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 43
+Memory consumed: 67543552 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 24
+Memory consumed: 76458496 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 18
+Memory consumed: 6375696 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 27
+Memory consumed: 10043664 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 46
+Memory consumed: 14136888 bytes 
+Time used: 3 milliseconds 
+DFS ALGORITHM
+Number of steps: 39
+Memory consumed: 25671800 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 45
+Memory consumed: 12581160 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 22
+Memory consumed: 18438344 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 8
+Memory consumed: 23681224 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 43
+Memory consumed: 25690408 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 20
+Memory consumed: 36264136 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 4
+Memory consumed: 40892712 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 19
+Memory consumed: 41941288 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 30
+Memory consumed: 46749896 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 2
+Memory consumed: 53475624 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 53
+Memory consumed: 54001960 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 41
+Memory consumed: 62912808 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 44
+Memory consumed: 71301416 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 54
+Memory consumed: 77070632 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 12
+Memory consumed: 8525760 bytes 
+Time used: 2 milliseconds 
+DFS ALGORITHM
+Number of steps: 36
+Memory consumed: 11671488 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 8
+Memory consumed: 19537856 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 15
+Memory consumed: 21722976 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 53
+Memory consumed: 25302976 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 54
+Memory consumed: 36403040 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 27
+Memory consumed: 45752256 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 38
+Memory consumed: 52043712 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 9
+Memory consumed: 60432320 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 54
+Memory consumed: 62535632 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 24
+Memory consumed: 71440320 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 15
+Memory consumed: 77731776 bytes 
+Time used: 1 milliseconds 
+DFS ALGORITHM
+Number of steps: 44
+Memory consumed: 5987928 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 4
+Memory consumed: 15947352 bytes 
+Time used: 0 milliseconds 
+DFS ALGORITHM
+Number of steps: 29
+Memory consumed: 16995928 bytes 
+Time used: 0 milliseconds 
