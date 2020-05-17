@@ -28,4 +28,4 @@
 
  ___________________________________________________________________________________
  
- <img src="sorry.jpg" width="200" align="center"/>
+ <img src="sorry.jpg" width="300" align="center" alt="example"/>
